@@ -1,0 +1,22 @@
+.loginbox {
+}
+
+.inputfield {
+    margin: 10px;
+    display: grid;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+a {
+    text-align: right;
+}
+
+#submit {
+    margin-bottom: 10px;
+}
+
+header {
+    text-align: center;
+    
+}

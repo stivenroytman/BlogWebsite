@@ -1,0 +1,29 @@
+{
+  "name": "blogwebsite",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Simple blog website that I made to better learn webdev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stivenroytman/blogwebsite.git"
+  },
+  "keywords": [
+    "learning",
+    "by",
+    "doing"
+  ],
+  "author": "Stiven Roytman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/stivenroytman/blogwebsite/issues"
+  },
+  "homepage": "https://github.com/stivenroytman/blogwebsite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2"
+  }
+}

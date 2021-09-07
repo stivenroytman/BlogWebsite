@@ -1,0 +1,28 @@
+{
+    "content": {
+        "static_pages": {
+            "login.html",
+            ""
+        },
+        "dynamic_pages": {}
+    },
+
+    "features": {
+
+        "authentication": {
+
+            "server": {
+                "receive": {
+                    "method": "POST",
+                    "data": {
+                        ""
+                    }
+                }
+            },
+            
+            "client": {
+                "send": ""
+            }
+        }
+    }
+}
